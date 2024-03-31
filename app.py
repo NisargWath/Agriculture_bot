@@ -5,7 +5,7 @@ import os
 
 
 
-GOOGLE_API_KEY = "AIzaSyCpDjrKq5lkm3LaW_U3N53IvNbHc4h5cnA"
+GOOGLE_API_KEY = "add your api key here"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 app = Flask(__name__)
